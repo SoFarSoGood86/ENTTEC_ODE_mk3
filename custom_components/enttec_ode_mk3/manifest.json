@@ -1,0 +1,10 @@
+{
+  "domain": "enttec_ode_mk3",
+  "name": "ENTTEC ODE mk3",
+  "version": "1.0.0",
+  "documentation": "https://github.com/SoFarSoGood86/ENTTEC_ODE_mk3",
+  "requirements": ["python-artnet>=1.0.4"],
+  "codeowners": ["@SoFarSoGood86"],
+  "config_flow": true,
+  "iot_class": "local_push"
+}

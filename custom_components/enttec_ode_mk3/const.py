@@ -1,0 +1,7 @@
+DOMAIN = "enttec_ode_mk3"
+CONF_HOST = "host"
+CONF_PORT = "port"
+CONF_UNIVERSE = "universe"
+MAX_CHANNELS = 512
+DEFAULT_PORT = 6454
+UPDATE_INTERVAL = 0.5

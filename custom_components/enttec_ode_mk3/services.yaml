@@ -1,0 +1,7 @@
+set_dmx_channel:
+  description: Set DMX channel value
+  fields:
+    channel:
+      description: Channel number (1-512)
+    value:
+      description: Value (0-255)
